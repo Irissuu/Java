@@ -22,8 +22,8 @@
 | 03 | <a href="https://github.com/Irissuu/Java/tree/795ccf75e421a3938e36c4dd63037623a4e327a5/DataTypes">Data types</a> | 17 | 
 | 04 | <a href="https://github.com/Irissuu/Java/tree/8b53070503f07fb26cca414e09c696e5160a3dbe/Arithmetic">Arithmetic operators</a> | 17 | 
 | 05 | <a href="https://github.com/Irissuu/Java/tree/df82ad1c3b55357978bf1b82ee3f95526d6db280/Operators">Relational operators and increment decrement</a> | 17 | 
-| 06 | <a href="">If & else</a> | 17 | 
-| 07 | <a href="">Switch case</a> | 17 | 
+| 06 | <a href="https://github.com/Irissuu/Java/tree/36595526f4f16489bbcc6e330ee042401c32eeb9/IfElse">If & else</a> | 17 | 
+| 07 | <a href="https://github.com/Irissuu/Java/tree/36595526f4f16489bbcc6e330ee042401c32eeb9/SwitchCase">Switch case</a> | 17 | 
 | 08 | <a href="">While</a> | 17 | 
 | 09 | <a href="">Do... while</a> | 17 | 
 | 09 | <a href="">For</a> | 17 | 
