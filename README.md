@@ -17,8 +17,8 @@
 
 | Studies | Activies | JDK |
 | ------------- | --------- |  ------------ |
-| 01 | <a href="https://github.com/Irissuu/Java/tree/e1b829ccd0f983dc6528441471271f79d5b16316/HelloWorld">Hello World!</a> | 17 | 
-| 02 | Constants and variables | 17 |
+| 01 | <a href="https://github.com/Irissuu/Java/tree/a02127965b6b0c23910f13104fdea35ab0ccbbea/HelloWorld">Hello World!</a> | 17 | 
+| 02 | <a href="">Constants and variables</a> | 17 |
 | 03  | Data types | 17 | 
 | 04   | Arithmetic operators | 17 | 
 | 05   | Relational operators and increment decrement | 17 | 
