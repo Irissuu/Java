@@ -20,8 +20,8 @@
 | 01 | <a href="https://github.com/Irissuu/Java/tree/a02127965b6b0c23910f13104fdea35ab0ccbbea/HelloWorld">Hello World!</a> | 17 | 
 | 02 | <a href="https://github.com/Irissuu/Java/tree/8a7e2aa6908dee14bfcf3ce9c0fb0bc481825678/ConstantsVariables">Constants and variables</a> | 17 | 
 | 03 | <a href="https://github.com/Irissuu/Java/tree/795ccf75e421a3938e36c4dd63037623a4e327a5/DataTypes">Data types</a> | 17 | 
-| 04 | <a href="">Arithmetic operators</a> | 17 | 
-| 05 | <a href="">Relational operators and increment decrement</a> | 17 | 
+| 04 | <a href="https://github.com/Irissuu/Java/tree/8b53070503f07fb26cca414e09c696e5160a3dbe/Arithmetic">Arithmetic operators</a> | 17 | 
+| 05 | <a href="https://github.com/Irissuu/Java/tree/8b53070503f07fb26cca414e09c696e5160a3dbe/IncrementDecrement">Relational operators and increment decrement</a> | 17 | 
 | 06 | <a href="">If & else</a> | 17 | 
 | 07 | <a href="">Switch case</a> | 17 | 
 | 08 | <a href="">While</a> | 17 | 
