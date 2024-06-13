@@ -28,7 +28,7 @@
 | 09 | <a href="https://github.com/Irissuu/Java/tree/74792a99bd1e2d8b37723450237636fad322047f/DoWhile">Do... while</a> | 17 | 
 | 09 | <a href="https://github.com/Irissuu/Java/tree/74792a99bd1e2d8b37723450237636fad322047f/For">For</a> | 17 | 
 | 10 | <a href="https://github.com/Irissuu/Java/tree/74792a99bd1e2d8b37723450237636fad322047f/Array">Array</a> | 17 | 
-| 11 | <a href="">Data input</a> | 17 | 
+| 11 | <a href="https://github.com/Irissuu/Java/tree/5a3b551adc7da4c6e8e5cad96132029e76f28cb1/DataInput">Data input</a> | 17 | 
 | 12 | <a href="">If chained</a> | 17 | 
 | 13 | <a href="">Introduction to JOptionPane and Wrapper</a> | 17 | 
 | 14 | <a href="">Cast and Wrapper</a> | 17 | 
