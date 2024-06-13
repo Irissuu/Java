@@ -39,3 +39,5 @@
 | 19 | <a href="">Basic calculator with OOP</a> | 17 | 
 | 20 | <a href="">Math class</a> | 17 |
 | soon | <a href=""></a> | 17 | 
+
+୧⍤⃝🍓 Following: <a href="https://www.youtube.com/playlist?list=PL2e_bCYJql2cn0S-fXTBoOMeP_ymSwDDD">Lessons</a>
