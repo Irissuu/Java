@@ -29,8 +29,8 @@
 | 09 | <a href="https://github.com/Irissuu/Java/tree/8e30e306d6fe3b24cdff69fe1d5c6fdbc0af36fa/Java/For">For</a> | 17 | 
 | 10 | <a href="https://github.com/Irissuu/Java/tree/8e30e306d6fe3b24cdff69fe1d5c6fdbc0af36fa/Java/Array">Array</a> | 17 | 
 | 11 | <a href="https://github.com/Irissuu/Java/tree/8e30e306d6fe3b24cdff69fe1d5c6fdbc0af36fa/Java/DataInput">Data input</a> | 17 | 
-| 12 | <a href="https://github.com/Irissuu/Java/tree/8e30e306d6fe3b24cdff69fe1d5c6fdbc0af36fa/Java/IfChained">If chained</a> | 17 | 
-| 13 | <a href="https://github.com/Irissuu/Java/tree/8e30e306d6fe3b24cdff69fe1d5c6fdbc0af36fa/Java/JoptionpaneWrapper">Introduction to JOptionPane and Wrapper</a> | 17 | 
+| 12 | <a href="https://github.com/Irissuu/Java/tree/8e30e306d6fe3b24cdff69fe1d5c6fdbc0af36fa/Java/IfChained">If chained (calculating bmi)</a> | 17 | 
+| 13 | <a href="https://github.com/Irissuu/Java/tree/8e30e306d6fe3b24cdff69fe1d5c6fdbc0af36fa/Java/JoptionpaneWrapper">Introduction to JOptionPane and Wrapper (calculating bmi)</a> | 17 | 
 | 14 | <a href="">Cast and Wrapper</a> | 17 | 
 | 15 | <a href="">Traversing an array</a> | 17 | 
 | 16 | <a href="">Introduction to OOP (object-oriented programming)</a> | 17 | 
