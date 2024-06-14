@@ -1,38 +1,30 @@
-import java.util.Scanner;
+import javax.swing.*;
 
 public class Imc {
     public static void main(String[] args) {
 
-        /*
-        less than 18.5 thinness
-        between 18.5 and 24.9 normal
-        between 25.0 and 29.9 overweight
-        between 30.0 and 39.9 obesity
-        greater than 40.0 severe obesity
-        * */
+        //Example wrapper: String str = "123";
+        //int num = Integer.parseInt(str); // Convert the string to an int using Integer.parseInt()
+       //System.out.println("Number: " + num); // Output: Number: 123
 
+        // it displays a message box for you and you can type in it
+        String wg = JOptionPane.showInputDialog(null, "Type weight");
+        String hg = JOptionPane.showInputDialog(null, "Type height");
 
-        Scanner input = new Scanner(System.in);
-
-        System.out.println("Enter your weight: ");
-        double weight = input.nextDouble();
-
-        System.out.println("Enter your height: ");
-        double height = input.nextDouble();
-
+        double weight = Double.parseDouble(wg); // Converts the string to a double using Double.parseDouble()
+        double height = Double.parseDouble(hg); // Converts the string to a double using Double.parseDouble()
         double bmi = weight / (height * height);
-        System.out.println("Your bmi is: " + bmi);
 
         if (bmi <= 18.5){
-            System.out.println("Thinness");
+            JOptionPane.showMessageDialog(null, "Thinness");
         } else if (bmi >= 18.5 && bmi <=24.9){
-            System.out.println("Normal");
+            JOptionPane.showMessageDialog(null, "Normal");
         } else if (bmi >= 25.0 && bmi <= 29.9){
-            System.out.println("Overweight");
+            JOptionPane.showMessageDialog(null, "Overweight");
         } else if (bmi >= 30.0 && bmi <= 39.9){
-            System.out.println("Obesity");
+            JOptionPane.showMessageDialog(null, "Obesity");
         } else {
-            System.out.println("Severe obesity");
+            JOptionPane.showMessageDialog(null, "Severe obesity");
         }
 
     }
