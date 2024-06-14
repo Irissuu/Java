@@ -29,8 +29,8 @@
 | 09 | <a href="https://github.com/Irissuu/Java/tree/74792a99bd1e2d8b37723450237636fad322047f/For">For</a> | 17 | 
 | 10 | <a href="https://github.com/Irissuu/Java/tree/74792a99bd1e2d8b37723450237636fad322047f/Array">Array</a> | 17 | 
 | 11 | <a href="https://github.com/Irissuu/Java/tree/5a3b551adc7da4c6e8e5cad96132029e76f28cb1/DataInput">Data input</a> | 17 | 
-| 12 | <a href="">If chained</a> | 17 | 
-| 13 | <a href="">Introduction to JOptionPane and Wrapper</a> | 17 | 
+| 12 | <a href="https://github.com/Irissuu/Java/tree/fe18f3e17a545e516b87bcf648df0f3a153890a5/IfChained">If chained</a> | 17 | 
+| 13 | <a href="https://github.com/Irissuu/Java/tree/fe18f3e17a545e516b87bcf648df0f3a153890a5/JoptionpaneWrapper">Introduction to JOptionPane and Wrapper</a> | 17 | 
 | 14 | <a href="">Cast and Wrapper</a> | 17 | 
 | 15 | <a href="">Traversing an array</a> | 17 | 
 | 16 | <a href="">Introduction to OOP (object-oriented programming)</a> | 17 | 
@@ -38,7 +38,7 @@
 | 18 | <a href="">Creating first attribute</a> | 17 | 
 | 19 | <a href="">Basic calculator with OOP</a> | 17 | 
 | 20 | <a href="">Math class</a> | 17 |
-| soon | <a href=""></a> | 17 | 
+| 21 |<a href="">soon!</a>  | 17 | 
 
 ##
 
