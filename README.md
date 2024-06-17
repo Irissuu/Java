@@ -36,7 +36,7 @@
 | 16 | <a href="https://github.com/Irissuu/Java/tree/5ef2aa6edbc911fb4e28504bbe3171ba3fc7bbbd/Java/FirstClass">First class with OOP</a> | 17 | 
 | 17 | <a href="https://github.com/Irissuu/Java/tree/5ef2aa6edbc911fb4e28504bbe3171ba3fc7bbbd/Java/FirstAttribute">Creating first attribute</a> | 17 | 
 | 18 | <a href="https://github.com/Irissuu/Java/tree/5ef2aa6edbc911fb4e28504bbe3171ba3fc7bbbd/Java/CalcOop">Division with OOP</a> | 17 | 
-| 19 | <a href="">Math class</a> | 17 |
+| 19 | <a href="https://github.com/Irissuu/Java/tree/0e5e0b8e526bf1498cb092b166e46d733b81dcad/Java/Bhaskara">Math class</a> | 17 |
 | 20 |<a href="">soon!</a>  | 17 | 
 
 ##
