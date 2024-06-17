@@ -33,9 +33,9 @@
 | 13 | <a href="https://github.com/Irissuu/Java/tree/8e30e306d6fe3b24cdff69fe1d5c6fdbc0af36fa/Java/JoptionpaneWrapper">Introduction to JOptionPane and Wrapper (calculating bmi)</a> | 17 | 
 | 14 | <a href="https://github.com/Irissuu/Java/tree/daddeaab0d9a21286c1ae2ed1fa73c33417fde81/Java/CastWrapper">Cast and Wrapper</a> | 17 | 
 | 15 | <a href="https://github.com/Irissuu/Java/tree/daddeaab0d9a21286c1ae2ed1fa73c33417fde81/Java/TranversingArray">Traversing an array</a> | 17 | 
-| 16 | <a href="">First class with OOP</a> | 17 | 
-| 17 | <a href="">Creating first attribute</a> | 17 | 
-| 18 | <a href="">Basic calculator with OOP</a> | 17 | 
+| 16 | <a href="https://github.com/Irissuu/Java/tree/5ef2aa6edbc911fb4e28504bbe3171ba3fc7bbbd/Java/FirstClass">First class with OOP</a> | 17 | 
+| 17 | <a href="https://github.com/Irissuu/Java/tree/5ef2aa6edbc911fb4e28504bbe3171ba3fc7bbbd/Java/FirstAttribute">Creating first attribute</a> | 17 | 
+| 18 | <a href="https://github.com/Irissuu/Java/tree/5ef2aa6edbc911fb4e28504bbe3171ba3fc7bbbd/Java/CalcOop">Division with OOP</a> | 17 | 
 | 19 | <a href="">Math class</a> | 17 |
 | 20 |<a href="">soon!</a>  | 17 | 
 
