@@ -37,7 +37,18 @@
 | 17 | <a href="https://github.com/Irissuu/Java/tree/5ef2aa6edbc911fb4e28504bbe3171ba3fc7bbbd/Java/FirstAttribute">Creating first attribute</a> | 17 | 
 | 18 | <a href="https://github.com/Irissuu/Java/tree/5ef2aa6edbc911fb4e28504bbe3171ba3fc7bbbd/Java/CalcOop">Division with OOP</a> | 17 | 
 | 19 | <a href="https://github.com/Irissuu/Java/tree/0e5e0b8e526bf1498cb092b166e46d733b81dcad/Java/Bhaskara">Math class</a> | 17 |
-| 20 |<a href="">soon!</a>  | 17 | 
+| 20 |<a href="">Equations</a> | 17 | 
+| 21 |<a href="">Get & set></a> | 17 |
+| 22 |<a href="">Access modifiers></a> | 17 |
+| 23 |<a href="">Private></a> | 17 |
+| 24 |<a href="">Default></a> | 17 |
+| 25 |<a href="">Public></a> | 17 |
+| 26 |<a href="">Protected></a> | 17 |
+| 27 |<a href="">Encapsulation></a> | 17 |
+| 28 |<a href="">Encapsulation practice></a> | 17 |
+| 29 |<a href="">Constructors></a> | 17 |
+| 30 |<a href="">Heritage></a> | 17 |
+| 31 |<a href="">Soon!</a> | 17 |
 
 ##
 
