@@ -37,10 +37,10 @@
 | 17 | <a href="https://github.com/Irissuu/Java/tree/5ef2aa6edbc911fb4e28504bbe3171ba3fc7bbbd/Java/FirstAttribute">Creating first attribute</a> | 17 | 
 | 18 | <a href="https://github.com/Irissuu/Java/tree/5ef2aa6edbc911fb4e28504bbe3171ba3fc7bbbd/Java/CalcOop">Division with OOP</a> | 17 | 
 | 19 | <a href="https://github.com/Irissuu/Java/tree/0e5e0b8e526bf1498cb092b166e46d733b81dcad/Java/Bhaskara">Math class</a> | 17 |
-| 20 |<a href="">Equations</a> | 17 | 
-| 21 |<a href="">Get & set</a> | 17 |
-| 22 |<a href="">Access modifiers</a> | 17 |
-| 23 |<a href="">Private</a> | 17 |
+| 20 |<a href="https://github.com/Irissuu/Java/tree/e63c1cc6590ac32b96ef8a60ec2ab29b00679a49/Java/Equations">Equations</a> | 17 | 
+| 21 |<a href="https://github.com/Irissuu/Java/tree/e59e0c829c8d4423c610f8e09b51ab4e585d4151/Java/GetSet">Get & set</a> | 17 |
+| 22 |<a href="https://github.com/Irissuu/Java/blob/6fe383a4ee3c4d4ca23638314dd3f2b3fce824f8/Java/Acess%20modifiers.txt">Access modifiers</a> | 17 |
+| 23 |<a href="https://github.com/Irissuu/Java/tree/6fe383a4ee3c4d4ca23638314dd3f2b3fce824f8/Java/Private">Private</a> | 17 |
 | 24 |<a href="">Default</a> | 17 |
 | 25 |<a href="">Public</a> | 17 |
 | 26 |<a href="">Protected</a> | 17 |
