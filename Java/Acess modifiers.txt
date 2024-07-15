@@ -1,0 +1,7 @@
+1. Private: Class-only access
+
+2. Protected: accessible within the same class, same package, same subclass (if it is a different subclass, access is through inheritance)
+ 
+3. Default: can be accessed by any class within the same package, regardless of whether they are in the same class or in different classes (they cannot be accessed by classes that are outside the package where they were defined.) 
+
+4. Public: visible to everyone
