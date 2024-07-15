@@ -1,7 +1,11 @@
-1. Private: Class-only access
+1. Public: visible to everyone
 
-2. Protected: accessible within the same class, same package, same subclass (if it is a different subclass, access is through inheritance)
+2. Private: Class-only access
+
+3. Protected: accessible within the same class, same package, same subclass (if it is a different subclass, access is through inheritance)
  
-3. Default: can be accessed by any class within the same package, regardless of whether they are in the same class or in different classes (they cannot be accessed by classes that are outside the package where they were defined.) 
+4. Default: can be accessed by any class within the same package, regardless of whether they are in the same class or in different classes (they cannot be accessed by classes that are outside the package where they were defined.) 
 
-4. Public: visible to everyone
+
+- All access modifiers (private, protected, default and public) can be accessed through getters and setters methods
+- As long as these methods are defined appropriately in the class containing the private members.
