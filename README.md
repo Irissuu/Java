@@ -41,15 +41,25 @@
 | 21 |<a href="https://github.com/Irissuu/Java/tree/e59e0c829c8d4423c610f8e09b51ab4e585d4151/Java/GetSet">Get & set</a> | 17 |
 | 22 |<a href="https://github.com/Irissuu/Java/blob/6fe383a4ee3c4d4ca23638314dd3f2b3fce824f8/Java/Acess%20modifiers.txt">Access modifiers</a> | 17 |
 | 23 |<a href="https://github.com/Irissuu/Java/tree/6fe383a4ee3c4d4ca23638314dd3f2b3fce824f8/Java/Private">Private</a> | 17 |
-| 24 |<a href="">Default</a> | 17 |
-| 25 |<a href="">Public</a> | 17 |
-| 26 |<a href="">Protected</a> | 17 |
-| 27 |<a href="">Encapsulation</a> | 17 |
-| 28 |<a href="">Encapsulation practice</a> | 17 |
+| 24 |<a href="https://github.com/Irissuu/Java/tree/aa4fb955ffed566b2f39c6fb9f639210947ed855/Java/Default">Default</a> | 17 |
+| 25 |<a href="https://github.com/Irissuu/Java/tree/0bc1acb53866523555d2a275d238ee2826fb3826/Java/Public">Public</a> | 17 |
+| 26 |<a href="https://github.com/Irissuu/Java/tree/b7df59fda6361c041cd169b699557c49e598f5a1/Java/Protected">Protected</a> | 17 |
+| 27 |<a href="https://github.com/Irissuu/Java/tree/db7278c359a74efce6f6816add24a86773c8c507/Java/Encapsulation">Encapsulation</a> | 17 |
+| 28 |<a href="">Encapsulation pratice</a> | 17 |
 | 29 |<a href="">Constructors</a> | 17 |
 | 30 |<a href="">Heritage</a> | 17 |
 | 31 |<a href="">Soon!</a> | 17 |
+| 32 |<a href="">Soon!</a> | 17 |
+| 33 |<a href="">Soon!</a> | 17 |
+| 34 |<a href="">Soon!</a> | 17 |
+| 35 |<a href="">Soon!</a> | 17 |
+| 36 |<a href="">Soon!</a> | 17 |
+| 37 |<a href="">Soon!</a> | 17 |
+| 38 |<a href="">Soon!</a> | 17 |
+| 39 |<a href="">Soon!</a> | 17 |
+| 40 |<a href="">Soon!</a> | 17 |
+| 41 |<a href="">Soon!</a> | 17 |
 
 ##
 
-୧⍤⃝🍓 Following: <a href="https://www.youtube.com/playlist?list=PL2e_bCYJql2cn0S-fXTBoOMeP_ymSwDDD">Lessons</a>
+୧⍤⃝🍓 Following: <a href="https://github.com/Irissuu/Java/blob/6a7b77c01dcad1b3638db26c123c8a4765b97a51/Java/Lessons.txt">Lessons</a>
