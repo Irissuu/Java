@@ -45,9 +45,9 @@
 | 25 |<a href="https://github.com/Irissuu/Java/tree/0bc1acb53866523555d2a275d238ee2826fb3826/Java/Public">Public</a> | 17 |
 | 26 |<a href="https://github.com/Irissuu/Java/tree/b7df59fda6361c041cd169b699557c49e598f5a1/Java/Protected">Protected</a> | 17 |
 | 27 |<a href="https://github.com/Irissuu/Java/tree/db7278c359a74efce6f6816add24a86773c8c507/Java/Encapsulation">Encapsulation</a> | 17 |
-| 28 |<a href="">Encapsulation pratice</a> | 17 |
-| 29 |<a href="">Constructors</a> | 17 |
-| 30 |<a href="">Heritage</a> | 17 |
+| 28 |<a href="https://github.com/Irissuu/Java/tree/1afa3402a408fe1d07c01dacd220037977828eaa/Java/PracticeEnc">Encapsulation pratice</a> | 17 |
+| 29 |<a href="https://github.com/Irissuu/Java/tree/1262faaa8e2c61c6199a99fd67c9afe067bcd217/Java/Constructor">Constructor method</a> | 17 |
+| 30 |<a href="https://github.com/Irissuu/Java/tree/67c85f57a6d4886221aa52d4b3b4b99065139a38/Java/Heritage">Heritage</a> | 17 |
 | 31 |<a href="">Soon!</a> | 17 |
 | 32 |<a href="">Soon!</a> | 17 |
 | 33 |<a href="">Soon!</a> | 17 |
