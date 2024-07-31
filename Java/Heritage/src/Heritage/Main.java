@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println(mom.getText());
         System.out.println(son.getjunction());
+        System.out.println(mom.getOperation());
+        System.out.println(son.getOperation());
     }
 }

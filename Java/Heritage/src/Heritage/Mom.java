@@ -1,10 +1,15 @@
 package Heritage;
 
 public class Mom {
-    String letter;
+    private String letter;
+    public int number;
 
     public Mom(){
         this.letter = "S";
+    }
+
+    public Mom(int num1){
+        this.number = 0;
     }
 
     public String getLetter() {
@@ -17,5 +22,9 @@ public class Mom {
 
     public String getText(){
         return this.letter + " com ";
+    }
+
+    public int getOperation(){
+        return this.number + 35;
     }
 }

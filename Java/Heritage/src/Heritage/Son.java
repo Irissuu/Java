@@ -18,4 +18,9 @@ public class Son extends Mom{
     public String getjunction(){
         return getText() + " " + getLetter();
     }
+
+    @Override
+    public int getOperation(){
+        return super.getOperation() + 10;
+    }
 }
