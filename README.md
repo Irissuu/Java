@@ -50,7 +50,7 @@
 | 30 |<a href="https://github.com/Irissuu/Java/tree/67c85f57a6d4886221aa52d4b3b4b99065139a38/Java/Heritage">Heritage</a> | 17 |
 | 31 |<a href="https://github.com/Irissuu/Java/tree/0cb459a5d813037451491d02d67c7d3c157363df/Java/Overload">Overload</a> | 17 |
 | 32 |<a href="https://github.com/Irissuu/Java/tree/0cb459a5d813037451491d02d67c7d3c157363df/Java/Heritage">Referencing</a> | 17 |
-| 33 |<a href="">Soon!</a> | 17 |
+| 33 |<a href="https://github.com/Irissuu/Java/tree/5f4a55d5ce9153eb43ba5c12d2f34c2ff8915c83/Java/Abstract">Abstract</a> | 17 |
 | 34 |<a href="">Soon!</a> | 17 |
 | 35 |<a href="">Soon!</a> | 17 |
 | 36 |<a href="">Soon!</a> | 17 |
@@ -62,4 +62,4 @@
 
 ##
 
-୧⍤⃝🍓 Following: <a href="https://github.com/Irissuu/Java/blob/6a7b77c01dcad1b3638db26c123c8a4765b97a51/Java/Lessons.txt">Lessons</a>
+୧⍤⃝🍓 Following: <a href="https://github.com/Irissuu/Java/blob/5f4a55d5ce9153eb43ba5c12d2f34c2ff8915c83/Java/Lessons.txt">Lessons</a>
