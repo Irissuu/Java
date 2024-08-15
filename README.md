@@ -51,8 +51,8 @@
 | 31 |<a href="https://github.com/Irissuu/Java/tree/0cb459a5d813037451491d02d67c7d3c157363df/Java/Overload">Overload</a> | 17 |
 | 32 |<a href="https://github.com/Irissuu/Java/tree/0cb459a5d813037451491d02d67c7d3c157363df/Java/Heritage">Referencing</a> | 17 |
 | 33 |<a href="https://github.com/Irissuu/Java/tree/5f4a55d5ce9153eb43ba5c12d2f34c2ff8915c83/Java/Abstract">Abstract</a> | 17 |
-| 34 |<a href="">Soon!</a> | 17 |
-| 35 |<a href="">Soon!</a> | 17 |
+| 34 |<a href="https://github.com/Irissuu/Java/tree/704afa236ad4263d279df4a9310de0757e950818/Java/Interface">Interface</a> | 17 |
+| 35 |<a href="https://github.com/Irissuu/Java/tree/616751e384cec3268d245cec99ca1f7b4638762a/Java/Enum">Enum</a> | 17 |
 | 36 |<a href="">Soon!</a> | 17 |
 | 37 |<a href="">Soon!</a> | 17 |
 | 38 |<a href="">Soon!</a> | 17 |
@@ -62,4 +62,3 @@
 
 ##
 
-୧⍤⃝🍓 Following: <a href="https://github.com/Irissuu/Java/blob/5f4a55d5ce9153eb43ba5c12d2f34c2ff8915c83/Java/Lessons.txt">Lessons</a>
